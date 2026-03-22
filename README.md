@@ -1,2 +1,12 @@
 # Cat-Dog Detector App
-Simple cat and dog image display/classification web app
+AI based Android app to detect cats and dogs using image upload.
+## Features
+- Upload image
+- Detect cat or dog
+- Simple UI
+## Tech
+- Kotlin
+- WebView
+- Hugging Face
+## Author
+Ganesh.y
