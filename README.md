@@ -8,5 +8,9 @@ AI based Android app to detect cats and dogs using image upload.
 - Kotlin
 - WebView
 - Hugging Face
+- ## 📸 Screenshots
+![App](screenshot1.jpg)
+![App](screenshot2.jpg)
+![App](screenshot3.jpg)
 ## Author
 Ganesh.y
